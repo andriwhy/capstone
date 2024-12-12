@@ -4,7 +4,7 @@
 
 AIFeel is a capstone project under the Product track developed by a team from Universitas Udayana.
 ---
-![logo](Asset 2@2x.png)
+![logo](https://raw.githubusercontent.com/andriwhy/capstone/mobile/Asset 2@2x.png)
 ## Team Members
 
 | Role       | ID          | Name                          | University         |
