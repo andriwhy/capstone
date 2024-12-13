@@ -33,3 +33,10 @@ Provide a platform to develop AIFeel as an AI based mood diary.
 - **Machine Learning (ML):** Tensorflow, Matplotlib, Google Collab, numpy, pandas, Scikit Learn
 - **Cloud Computing (CC):** Google Cloud Platform, Eraser.io, Postman, RESTful API, Nodejs
 - **Mobile Development (MD):** Android Studio, Retrofit, ViewModel, Jetpack Compose, TensorFlow Lite 
+
+### Datasets
+[Dataset]([https://bit.ly/AIFeel-backend-documentations](https://www.kaggle.com/datasets/parulpandey/emotion-dataset )
+
+### Dokumentasi Backend
+Untuk dokumentasi backend, silakan kunjungi tautan berikut: [Dokumentasi Backend](https://bit.ly/AIFeel-backend-documentations)
+
