@@ -37,6 +37,6 @@ Provide a platform to develop AIFeel as an AI based mood diary.
 ### Datasets
 [Dataset](https://www.kaggle.com/datasets/parulpandey/emotion-dataset )
 
-### Dokumentasi Backend
+### Backend Documentation
 For backend APIs documentation: [Backend documentation](https://bit.ly/AIFeel-backend-documentations)
 
